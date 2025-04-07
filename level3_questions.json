@@ -1,0 +1,8 @@
+[
+  {
+    "question": "Which monument is shown in this image?",
+    "options": ["Taj Mahal", "Qutub Minar", "Red Fort", "Gateway of India"],
+    "answer": "Taj Mahal",
+    "file": "1.png"
+  }
+]
